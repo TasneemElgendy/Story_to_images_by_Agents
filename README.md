@@ -1,4 +1,4 @@
-# 📖 AI Story Teller
+# AI Story Teller
 
 A multi-agent LangGraph pipeline that generates stories and illustrates them with AI images — built entirely with **free APIs**.
 
@@ -54,7 +54,7 @@ GROQ_API_KEY=gsk_xxxxxxxxxxxxxxxxxxxx
 HF_TOKEN=hf_xxxxxxxxxxxxxxxxxxxx
 ```
 
-> ⚠️ No quotes around the values. Just plain text.
+> No quotes around the values. Just plain text.
 
 ### 4. Run the app
 
@@ -68,7 +68,7 @@ streamlit run app.py
 python main.py
 ```
 
-> ⚠️ Never run `python app.py` — Streamlit apps must be launched with `streamlit run`.
+> Never run `python app.py` — Streamlit apps must be launched with `streamlit run`.
 
 ## Common Errors & Fixes
 
